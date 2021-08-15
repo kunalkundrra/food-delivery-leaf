@@ -1,4 +1,3 @@
-/* navigation section */
 
 #navbar {
     flex-direction: column;
@@ -9,9 +8,6 @@
     padding: 0px 7px;
     padding-bottom: 8px;
 }
-
-
-/* home section */
 
 #home {
     height: 518px;
@@ -25,9 +21,6 @@
 #home p {
     font-size: 15px;
 }
-
-
-/* services section */
 
 #services {
     flex-direction: column;
@@ -45,9 +38,6 @@
     display: block;
 }
 
-
-/* clients section */
-
 #clients {
     flex-wrap: wrap;
 }
@@ -61,15 +51,6 @@
     padding: 60px;
     height: auto;
 }
-
-
-/* contact us section */
-
-
-/* footer section */
-
-
-/* utility classes */
 
 .h-primary {
     font-size: 26px;
